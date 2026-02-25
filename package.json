@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/amrit-singh-dev/weather-dashboard-react",
-  "name": "weather-app",
+  "homepage": "https://amrit-singh-dev.github.io/weather-dashboard-react",
+  "name": "weather-dashboard-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
